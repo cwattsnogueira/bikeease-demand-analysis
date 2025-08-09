@@ -9,6 +9,15 @@ University of San Diego / Fullstack Academy
 Section: 2504-FTB-CT-AIM-PT
 End Date: Jun/2025
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Dataset](https://img.shields.io/badge/Dataset-FloridaBikeRentals.csv-lightgrey.svg)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%26%20Matplotlib-orange.svg)
+![Preprocessing](https://img.shields.io/badge/Data%20Cleaning-Enabled-yellow.svg)
+![Team](https://img.shields.io/badge/Team-Carllos%20%26%20Ranjan-blueviolet.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+
 ## Overview
 BikeEase is a New York-based urban mobility company that provides flexible bike rental options to city residents and tourists. Committed to eco-friendly transportation, the company aims to optimize its operations using data-driven insights powered by AI and machine learning.
 
